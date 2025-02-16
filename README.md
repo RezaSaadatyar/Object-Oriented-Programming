@@ -66,4 +66,4 @@
 
 **8. Decorator**
 
-E-mail: Reza.Saadatyar@outlook.com 
+For any questions or inquiries, please feel free to contact me at Reza.Saadatyar@outlook.com 
