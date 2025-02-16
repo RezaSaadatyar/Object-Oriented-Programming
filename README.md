@@ -1,69 +1,33 @@
 **Object Oriented Programming (OOP)**
 
-**Principles of OOP:**<br/>
-◾ `Abstraction:` Hiding the complex implementation details and exposing only the essential features of an object.<br/>
-◾ `Encapsulation:` Wrapping data and methods within a class, restricting direct access to some components.<br/>
-◾ `Inheritance:` A mechanism to create a new class based on an existing class to reuse its properties and methods.<br/>
-◾ `Polymorphism:` Allowing objects of different classes to be treated as objects of a common superclass, enabling method overriding and dynamic behaviour.<br/>
-  
-**1. Classes and Objects**<br/>
-◾ Defining classes with class<br/>
-◾ Creating objects (instances of a class)<br/>
-◾ Attributes:<br/>
-- Instance Attributes: Attributes specific to an object.<br/> 
-- Class Attributes: Shared across all instances of a class.<br/>
+## **Why This Repository is Useful?**<br/>
+✅ Learn **OOP concepts** in Python with practical examples  
+✅ Understand how to structure **software projects using OOP**  
+✅ Implement **modular and reusable code** using **classes and objects**  
+✅ Explore **best practices for software development with OOP**  
 
-◾ Methods:<br/> 
-- Defining methods with def → Functions defined inside a class that operates on the class attributes.<br/> 
-- Using self to access instance attributes<br/>
+## **Contents**  
+- **Introduction to OOP** (Classes, Objects, Attributes, Methods)  
+- **OOP Principles** (Abstraction, Encapsulation, Inheritance, Polymorphism)  
+- **Building Scalable Software with OOP**  
+- **Design Patterns in OOP**  
+- **Real-World Applications of OOP**  
+- **Best Practices for OOP in Python**  
 
-◾ Accessing and modifying objects<br/>
-◾ Constructors and Initializers<br/>
-- Using the `__init__ `method<br/>
-- Initializing instance attributes<br/>
-- Setting default and custom parameters<br/>
+## **How to Use This Repository?**  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/RezaSaadatyar/Object-Oriented-Programming/oop-python.git
+   cd oop-python
+   ```
+2. Open the Jupyter Notebook:  
+   ```bash
+   jupyter notebook oop.ipynb
+   ```
+3. Follow the examples and modify the code for your own projects.  
 
-**2. Inheritance**<br/>
-◾ Single Inheritance<br/>
-◾ Multiple Inheritance<br/>
-◾ Overriding methods<br/>
-◾ Using super() to call parent class methods (super().`__init__`)<br/>
+## **License**
+This project is licensed under the [MIT License](https://github.com/shahriar-hd/BrainTumorDetection/blob/main/LICENSE).
 
-**3. Polymorphism**<br/>
-◾ Method overriding for different behaviors in child classes<br/>
-◾ Defining multiple behaviors for a method<br/>
-
-**4. Abstract Classes and Interfaces**<br/>
-◾ Concept of abstract classes<br/>
-◾ Using the abc module<br/>
-◾ Defining abstract methods<br/>
-◾ Creating and enforcing interfaces<br/>
-
-**5. Encapsulation**<br/>
-◾ Access Modifiers:<br/>
-- Public<br/>
-- Protected<br/>
-- Private<br/>
-
-◾ Using Getters and Setters for private attributes<br/>
-◾ Property decorators (@property) for better encapsulation<br/>
-◾ Descriptor using get, set, delete, and set_name<br/>
-
-**6. Class and Static Methods**<br/>
-◾ Defining Class Methods with @classmethod<br/>
-◾ Defining Static Methods with @staticmethod<br/>
-◾ Difference between Instance Methods, Class Methods, and Static Methods<br/>
-◾ Using cls for class-related operations<br/>
-
-**7. Magic Methods, Operator Overloading & dataclass**<br/>
-◾ Understanding magic methods (Dunder methods)<br/>
-◾ Key Magic Methods:<br/>
-- `__init__`, `__str__`, `__repr__`<br/>
-- Comparison methods (`__eq__`, `__lt__`, etc.)<br/>
-- Arithmetic operation methods (`__add__`, `__sub__`, etc.)<br/>
-- Item access methods: `__getitem__`, `__setitem__`<br/>
-- Customizing object behavior with magic methods<br/>
-
-**8. Decorator**
-
-For any questions or inquiries, please feel free to contact me at Reza.Saadatyar@outlook.com 
+## **Contributions & Feedback**  
+Feel free to contribute or suggest improvements. Contact me via **Reza.Saadatyar@outlook.com** for any discussions! 🚀
