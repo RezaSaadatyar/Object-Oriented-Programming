@@ -30,4 +30,4 @@
 This project is licensed under the [MIT License](https://github.com/shahriar-hd/BrainTumorDetection/blob/main/LICENSE).
 
 ## **Contributions & Feedback**  
-Feel free to contribute or suggest improvements. Contact me via Reza.Saadatyar@outlook.com for any discussions! 🚀
+Feel free to contribute or suggest improvements. Contact me via Reza.Saadatyar@outlook.com for any discussions!
